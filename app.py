@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template, redirect, url_for, jsonify, abort, make_response
+from flask import Flask, request, jsonify, abort, make_response
 
 
 from models import cds
