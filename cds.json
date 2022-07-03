@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Back in Black",
+    "artist": "ACDC",
+    "song_list": "1.\"Hells Bells\"2.\"Shoot to Thrill\"3.\"What Do You Do for Money Honey\"\r\n4.\"Given the Dog a Bone\"\r\n5.\"Let Me Put My Love into You\"\r\n6.\"Back in Black\"\r\n7.\"You Shook Me All Night Long\"\r\n8.\"Have a Drink on Me\"\r\n9.\"Shake a Leg\"\r\n10.\"Rock and Roll Ain't Noise Pollution\"",
+    "genre": "HardRock",
+    "release": "1980"
+  },
+  {
+    "id": 2,
+    "title": "A/B",
+    "artist": "Kaleo",
+    "song_list": "1.\"No Good\"2.\"Way Down We Go\"3.\"Broken Bones\"\r\n4.\"Glass House\"\"\r\n5.\"Hot Blood\"\r\n6.\"All the Pretty Girls\"\r\n7.\"Automobile\"\r\n8.\"Vor í Vaglaskógi\"\r\n9.\"Save Yourself\"\r\n10.\"I Can't Go on Without You\"",
+    "genre": "Blues Rock",
+    "release": "2016"
+  },
+  {
+    "id": 3,
+    "title": "OutRun",
+    "artist": "Kavinsky",
+    "song_list": "1.\"Prelude\"2.\"Blizzard\"3.\"ProtoVision\"\r\n4.\"Odd Look\"\r\n5.\"Rampage\"\r\n6.\"Suburbia\"\r\n7.\"Testarossa Autodrive\"\r\n8.\"Nightcall\"\r\n9.\"Deadcruiser\"\r\n10.\"Grand Canyon\"\r\n11.\"First Blood\"\r\n12.\"Roadgame\"\r\n13.\"Endless\"",
+    "genre": "Synthwave",
+    "release": "2013"
+  },
+  {
+    "id": 4,
+    "title": "Echoes, Silence, Patience & Grace",
+    "artist": "Foo Fighters",
+    "song_list": "1.\"The Pretender\"2.\"Let It Die\"3.\"Erase/Replace\"\r\n4.\"Long Road to Ruin\"\r\n5.\"Come Alive\"\r\n6.\"Stranger Things Have Happened\"\r\n7.\"Cheer Up, Boys (Your Make Up Is Running)\"\r\n8.\"Summer's End\"\r\n9.\"The Ballad of the Beaconsfield Miners\"\r\n10.\"Statues\"\r\n11.\"But, Honestly\"\r\n12.\"Home\"",
+    "genre": "Alternative Rock",
+    "release": "2007"
+  }
+
+]
