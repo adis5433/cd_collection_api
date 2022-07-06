@@ -19,7 +19,7 @@ class CDS:
         return self.cds
 
     def get(self, id):
-        cd = [cd for cd in self.all() if cd['id'] == id]
+        cd = [cd for cd in self.all() if self.all().index(cd) == id]
         if cd:
             return cd[0]
         return []
@@ -45,14 +45,12 @@ class CDS:
         cd = self.get(id)
         if cd:
             index = self.cds.index(cd)
-            self.favorites_cdss.append(cds[index])
+            self.favorites_cds.append(self.cds[index])
             with open("favorites_cds.json", "w") as f:
                 json.dump(self.favorites_cds, f)
 
     def favorites(self):
         return self.favorites_cds
-
-
 
 
 
